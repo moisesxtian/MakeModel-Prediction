@@ -4,6 +4,7 @@ venv/
 # Ignore datasets
 SETDATA/
 dataset/
+audi_dataset/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
